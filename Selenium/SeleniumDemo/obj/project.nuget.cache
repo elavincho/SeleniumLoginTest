@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CchsHYR6L1Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elavi\\OneDrive\\Escritorio\\Selenium\\SeleniumDemo\\SeleniumDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elavi\\.nuget\\packages\\selenium.webdriver\\4.38.0\\selenium.webdriver.4.38.0.nupkg.sha512",
+    "C:\\Users\\elavi\\.nuget\\packages\\selenium.webdriver.chromedriver\\142.0.7444.5900\\selenium.webdriver.chromedriver.142.0.7444.5900.nupkg.sha512"
+  ],
+  "logs": []
+}
